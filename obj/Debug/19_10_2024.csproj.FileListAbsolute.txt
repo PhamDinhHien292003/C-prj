@@ -1,0 +1,16 @@
+D:\Stu\vs\19_10_2024\bin\Debug\19_10_2024.exe.config
+D:\Stu\vs\19_10_2024\bin\Debug\19_10_2024.exe
+D:\Stu\vs\19_10_2024\bin\Debug\19_10_2024.pdb
+D:\Stu\vs\19_10_2024\obj\Debug\19_10_2024.csproj.AssemblyReference.cache
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.Properties.Resources.resources
+D:\Stu\vs\19_10_2024\obj\Debug\19_10_2024.csproj.GenerateResource.cache
+D:\Stu\vs\19_10_2024\obj\Debug\19_10_2024.csproj.CoreCompileInputs.cache
+D:\Stu\vs\19_10_2024\obj\Debug\19_10_2024.exe
+D:\Stu\vs\19_10_2024\obj\Debug\19_10_2024.pdb
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.menu.resources
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.FrmTimkiemKH.resources
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.FrmTimkiemMH.resources
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.FrmBanHang.resources
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.FrmKhachHang.resources
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.FrmMatHang.resources
+D:\Stu\vs\19_10_2024\obj\Debug\_19_10_2024.FrmTimKiemGDMB.resources
